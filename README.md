@@ -41,8 +41,8 @@
   
 
 ### Starting Apache And MySQL in XAMPP:
-  The XAMPP Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start’ button under ‘Actions’.
+  The laragon Control Panel allows you to manually start and stop Apache and MySQL. To start Apache or MySQL manually, click the ‘Start all srvice’ in bottom action bar 
   
   
-<p align="center"><img src="https://user-images.githubusercontent.com/36665975/59350977-fcc68900-8d3a-11e9-9450-e5c478497caa.png"></p>
+
 
