@@ -2,16 +2,7 @@
 
  A hotel management system in which clients can perform operations such as booking a room and event. It is possible for the clients to cancel the rooms that they had booked and the admin has control over the rooms allotted to the clients and can also manage client requests for rooms, event halls. From the admin side, the admin can add a new type of room and events, then admin can add new room and hall to the corresponding type, with that admin has an over view of hotel booking on the dashboard with graph.
 
-  **Visit** : [Live Demo](https://hotel-management-system-ajax.000webhostapp.com/)
-
-<h1>login credentials</h1>
- <h3>Admin :</h3>
-   <p>Email : admin@gmail.com<br>Password : 123</p>
- <h3>Client :</h3>
-   <p>Email : rakesh@gmail.com<br>Password : 1234</p>
-
-## Schema
-![localhost _ 127](https://user-images.githubusercontent.com/59527753/137015146-d37af8ea-3833-429a-bf81-00d74087b05b.png)
+  
 
 
   
