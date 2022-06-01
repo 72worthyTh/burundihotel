@@ -35,9 +35,9 @@
 10. Hurray! That's it!
     
 ### SOFTWARES USED
-  - XAMPP was installed on the windows 8 machine and APACHE2 Server and MySQL were initialized. And, files were built inside C:\xampp\htdocs\hospital
+  - laragon was installed on the windows 10 machine and APACHE2 Server and MySQL were initialized.
   - Visual Studio Code was used as a text editor.
-  - Google Chrome Version 77.0.3865.90 was used to run the project (localhost/hms-hospital/home.html was used as the url).
+  - Google Chrome ,operamini and microsoft edge are used as browsers.
   
 
 ### Starting Apache And MySQL in XAMPP:
